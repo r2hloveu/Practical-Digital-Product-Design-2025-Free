@@ -167,6 +167,13 @@
 | **ক্লাস ৩০:** ইন্টারফেস ডিজাইন এবং সাইকোলজির ধারণা | [ভিডিও লিংক](https://drive.google.com/file/d/1bL6hLx7fD6XjzZBZ_d3a7reuvx53AjBQ/view?usp=drive_link) | [স্লাইড লিংক](https://www.figma.com/board/tunCpqqHbZ13GpBbzp3K9I/PDPD----C30?node-id=14001-29&t=QtHoXu41oIjTgipg-1) |
 | **ক্লাস ৩১:** Accessibility এবং নেভিগেশন | [ভিডিও লিংক](https://drive.google.com/file/d/1WbUbhY-J9RaxqWtOq9SahdbN8wOdL_bC/view?usp=drive_link) | [স্লাইড লিংক](https://www.figma.com/board/LQ74jUm3eK3Egg9sTEF3TB/PDPD----C31?node-id=10-22&t=9BURzLHjCybrw6Na-1) |
 
+### এক্সট্রা জিনিসপত্র
+- PDPD Assignment 1 (Cheatsheet) : <https://drive.google.com/file/d/1mEOMp5oSV0PbqEBK3drsKzGETUHV0dxR/view?usp=drive_link>
+- PDPD Assignment 2 (Cheatsheet) : <https://drive.google.com/file/d/1pt666EOJ9AZwnWgFusOF-6LoSnRdwp14/view?usp=drive_link>
+- PDPD SCAMPER (Cheatsheet) : <https://drive.google.com/file/d/1Bqd_qRdoxerCKUAjThIDr77sxyIGomyD/view?usp=drive_link>
+- PDPD Assignment 13 : <https://drive.google.com/file/d/1AFAmQhYSg3sgrywP4wwXEvlmv2y7cFxW/view?usp=drive_link>
+- PDPD Restaurant PRD : <https://drive.google.com/file/d/17ZSPHp0sPQHW5rCYhSFZFEvA6GarQtD7/view?usp=sharing>
+
 ### ক্যারিয়ার জার্নি
 
 আমাদের পরবর্তী ক্লাসগুলোতে আমরা কীভাবে নিজের ক্যারিয়ার ডিজাইন করা যায়; সিভি বানানো, পোর্টফোলিও এবং কেস স্টাডি ঠিক করা নিয়ে হয়েছে। যেহেতু, একেকজনের ক্যারিয়ারের লক্ষ্য এবং বর্তমান অবস্থা একেকরকম; এই পার্টের রেকর্ডিং অন্য কাউকে সরাসরি হেল্প করবে না।
